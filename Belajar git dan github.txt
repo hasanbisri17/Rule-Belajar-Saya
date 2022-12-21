@@ -2,3 +2,8 @@ Belajar GIT dan GITHUB melalui media youtube channel Web Prgraming UNPAS
   > Pembelajaran Pertama saya
     Pembelajaran pertama saya yaitu belajar tentang perbedaan dan pengertian GIT & GITHUB
       => URL : https://youtu.be/lTMZxWMjXQU
+
+  > Pembelajaran Kedua saya
+    Pembelajaran Kedua saya yaitu belajar tentang bagaimana cara kita bekerja dengan GITHUB
+      => URL : https://youtu.be/Q3Id0DgcrXY
+
