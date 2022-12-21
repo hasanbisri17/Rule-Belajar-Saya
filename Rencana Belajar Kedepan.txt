@@ -8,3 +8,4 @@ Rencana kedepannya saya mau belajar beberapa pemrograman dan freamwork
     > Laravel
     > Vue
     > Bootstrap
+    > React
