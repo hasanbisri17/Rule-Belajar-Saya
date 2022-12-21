@@ -1,0 +1,10 @@
+Rencana kedepannya saya mau belajar beberapa pemrograman dan freamwork
+  Pemrograman :
+    > PHP
+    > Javascript
+    > HTML
+    > CSS
+   Freamwork : 
+    > Laravel
+    > Vue
+    > Bootstrap
